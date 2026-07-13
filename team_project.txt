@@ -1,7 +1,4 @@
 Team Project
 Version 1.0
-<<<<<<< HEAD
 Feature B implemented
-=======
 Feature A implemented
->>>>>>> feature-a
