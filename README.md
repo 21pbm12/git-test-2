@@ -1,2 +1,2 @@
-# git-test-2
-this repo created too test git 
+Team Project
+Version 1.0
